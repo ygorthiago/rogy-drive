@@ -8,5 +8,5 @@ export default {
   dbCredentials: {
     url: env.DATABASE_URL,
   },
-  tablesFilter: ["rogy-gallery_*"],
+  tablesFilter: ["rogy-drive_*"],
 } satisfies Config;
