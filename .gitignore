@@ -27,6 +27,7 @@ next-env.d.ts
 
 # debug
 npm-debug.log*
+.pnpm-debug.log*
 
 # local env files
 # do not commit any .env files to git, except for the .env.example file.
